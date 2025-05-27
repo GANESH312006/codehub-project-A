@@ -1,0 +1,50 @@
+<resources>
+  <string name="app_name">CodeHubProject</string>
+  <string name="greeting">Good Morning!</string>
+  <string name="user_name">%s</string>
+  <string name="welcome_back">Welcome back, %1$s</string>
+
+  <!-- Date text -->
+  <string name="date_text">As of 04/1/2025</string>
+
+  <string name="CHBank">CHBank</string>
+  <string name="current_balance">Current Balance:</string>
+
+  <string name="interest">INTEREST</string>
+  <string name="out">OUT</string>
+  <string name="in">IN</string>
+
+  <string name="deposit">Deposit</string>
+  <string name="withdraw">Withdrawal</string>
+
+  <!-- Sign in Text -->
+  <string name="sign_in_to_access_your_banking_account">"Sign in to access your banking account"</string>
+
+  <!-- Welcome Back Login-->
+  <string name="welcome_back_login">Welcome back</string>
+
+  <!-- User Name -->
+  <string name="user_name_login">User Name</string>
+
+  <!-- Password -->
+  <string name="password">Password</string>
+
+  <!-- Transfer texts -->
+  <string name="transfer_money">Transfer Money</string>
+  <string name="tranfer_to">Transfer to</string>
+  <string name="amount">Amount</string>
+
+
+  <!-- Close Account texts -->
+  <string name="close_account">Close account</string>
+  <string name="confirm_user">Confirm user</string>
+  <string name="confirm_pin">Confirm PIN</string>
+
+  <!--  Operation: transfer texts-->
+  <string name="transfer_to">Transfer To</string>
+  <string name="transfer_amount">Amount</string>
+
+  <!--  Operation: request loan texts-->
+  <string name="request_loan">Request loan</string>
+
+</resources>
