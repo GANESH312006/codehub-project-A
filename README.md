@@ -1,1 +1,1 @@
-This is just an sample project with no usecases
+This is just an sample project and doesn't have any major usecases or features. 
